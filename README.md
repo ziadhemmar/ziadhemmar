@@ -5,7 +5,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 My name is **Ziad Hemmar** and I’m a **Cybersecurity & Network Engineer**.  
-I’m from **Béjaïa, Algeria**, specialized in **Networks, Security, and Infrastructure Protection**.
+I’m from **Algeria**, specialized in **Networks, Security, and Infrastructure Protection**.
 
 I’m passionate about **network defense, penetration testing, Linux systems, and secure architectures**.
 
@@ -48,26 +48,6 @@ I’m passionate about **network defense, penetration testing, Linux systems, an
 
 ---
 
-## 🧑‍💻 Experience
-
-### 🖥️ **Informaticien** — *Soummam Computer System (Béjaïa)*  
-📅 **Since July 2025**
-- Network troubleshooting & maintenance
-- IT infrastructure support
-- User technical assistance and system diagnostics
-
-### 📱 **Android Developer** — *Quffa App*  
-📅 **June 2023**
-- Native Android development using **Kotlin**
-- Authentication, cart management & real-time order tracking
-
-### 🌍 **Web Developer** — *Airbnb Clone (Personal Project)*  
-📅 **March 2022**
-- Full MERN Stack application
-- User authentication & listings management
-
----
-
 ## 🎓 Education
 
 - **Master in Networks & Security** (2023 – 2025)  
@@ -78,14 +58,8 @@ I’m passionate about **network defense, penetration testing, Linux systems, an
 
 ---
 
-## 📂 Featured Projects (Coming Soon 🚧)
+## 📂 Featured Projects 
 
-🔹 **Enterprise Network Design & Security (Packet Tracer)**  
-🔹 **Firewall & VPN Architecture Labs**  
-🔹 **SOC & Incident Response Simulations**  
-🔹 **Linux Hardening & Automation Scripts**
-
-*(Projects will be documented with diagrams, configs & explanations)*
 
 ---
 
@@ -104,7 +78,6 @@ I’m passionate about **network defense, penetration testing, Linux systems, an
 ## 🤝 Let’s Connect
 
 - 📧 Email: **ziadhemmar4@gmail.com**
-- 📍 Location: **Béjaïa, Algeria**
 - 💼 Open to **Cybersecurity, Network & SOC opportunities**
 
 ---
