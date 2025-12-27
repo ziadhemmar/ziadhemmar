@@ -1,145 +1,135 @@
-````md
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="160"/>
+# 👨‍💻 Ziad Hemmar  
+### Cyber Security Engineer | Networks & Ethical Hacking
 
-<h1>ZIAD HEMMAR</h1>
-<h3>Cyber Security & Network Security Engineer</h3>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 
-<code>Master’s Degree · Networks & Security · Hands-on Labs</code>
+---
 
-<br>
-
-<a href="https://www.linkedin.com/in/ziad-hemmar-816806292/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ziadhemmar4@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=red"/>
-</a>
+🔐 Securing systems • 🌐 Building networks • 🧠 Breaking things to make them safer
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
 ```bash
-$ whoami
-Cyber Security & Network Security Engineer
-````
+┌──(ziad㉿kali)-[~]
+└─$ whoami
+Cyber Security Engineer | Network & Security Specialist
+🎓 Master’s Degree in Computer Science – Networks & Security
 
-I build, break, secure, and **understand networks from the inside**.
+🛡️ Passionate about defensive & offensive security
 
-My focus is **real-world cybersecurity**, not theory dumps:
+🧪 Hands-on learner (labs, simulations, real configs)
 
-* Secure network design & hardening
-* Traffic analysis & threat detection
-* Incident response thinking
-* Practical labs and simulations
-* Automation for security tasks
+🧠 Strong focus on network security & infrastructure
 
-I treat GitHub as a **cyber range**, not a storage folder.
+🧰 Building a practical cybersecurity portfolio
 
----
+🛠️ Skills & Tools
+🔹 Networking
+Cisco Packet Tracer
 
-## 🧪 Core Skillset
+Routing & Switching
 
-### 🌐 Networking
+VLANs, Trunking, Inter-VLAN Routing
 
-* TCP/IP · OSI Model
-* Routing & Switching
-* DNS · DHCP
-* VPN (Concepts & Configurations)
-* Firewalls & ACLs
-* IDS / IPS
-* Network Troubleshooting
+DHCP, DNS, NAT
 
-### 🔐 Cyber Security
+Network Troubleshooting
 
-* Risk Analysis & Threat Modeling
-* Incident Response Workflow
-* Penetration Testing Fundamentals
-* Network Hardening
-* Security Monitoring
+🔹 Security
+Network Hardening
 
-### ⚙️ Automation
+Firewall Concepts
 
-* Python (Security & Networking Scripts)
-* Bash / Shell
+Access Control
 
----
+Security Monitoring
 
-## 🧰 Tools I Use
+Basic Threat Analysis
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
-</div>
+🔹 Ethical Hacking / Labs
+Nmap
 
----
+Wireshark
 
-## 📁 What’s Inside This GitHub
+Metasploit (Basics)
 
-🖧 **Packet Tracer Network Labs**
+Linux (Kali / Ubuntu)
 
-* Enterprise-style network topologies
-* Routing, VLANs, ACLs, services
-* Security-focused designs
+Password & Network Attacks (Labs only)
 
-🔐 **Security Projects**
+🔹 Systems
+Linux Administration
 
-* Secure network architectures
-* Defensive security concepts
-* Blue-team oriented labs
+Bash Basics
 
-⚙️ **Automation**
+Git & GitHub
 
-* Python scripts for networking & security
-* Task automation & diagnostics
+📁 Featured Projects
+🔐 Secure Enterprise Network – Packet Tracer
+Description:
+Designed a segmented enterprise network with VLANs, routing, DHCP, and basic security policies.
 
-📘 **Documentation**
+Key Concepts:
 
-* Clear README per project
-* Network diagrams
-* Step-by-step explanations
+VLAN segmentation
 
----
+Router-on-a-Stick
 
-## 🎯 Career Direction
+Secure IP addressing
 
-```txt
-✔ Network Security Engineer
-✔ SOC / Blue Team
-✔ Infrastructure Security
-✔ Continuous Cyber Learning
-```
+Network testing & verification
 
----
+📂 Repo:
+➡️ Secure-Network-Packet-Tracer
 
-## 📊 GitHub Activity
+🌐 Campus Network Design
+Description:
+Simulated a multi-building campus network focusing on scalability and security.
+
+Key Concepts:
+
+Hierarchical network design
+
+Redundancy concepts
+
+Network documentation
+
+📂 Repo:
+➡️ Campus-Network-Design
+
+🧪 Labs & Practice
+🧠 Packet Tracer Labs
+
+🧰 Network Simulation & Testing
+
+🛡️ Security Scenarios
+
+🐧 Linux Practice
+
+⚠️ All hacking activities are performed in legal lab environments only
+
+📜 Certifications (Planned / In Progress)
+🟡 CCNA
+
+🟡 Security+
+
+🟡 CEH
+
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="160"/> </div>
+📫 Contact
+📧 Email: ziadhemmar4@gmail.com
+
+💼 LinkedIn: (add when ready)
+
+🌍 Location: Algeria 🇩🇿
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=ziadhemmar&theme=dark&border_radius=4"/>
-</div>
-
----
-
-## 📫 Contact
-
-* 📧 Email: **[ziadhemmar4@gmail.com](mailto:ziadhemmar4@gmail.com)**
-* 💼 LinkedIn: **linkedin.com/in/ziad-hemmar-816806292**
-
-> ⚠️ This GitHub reflects **hands-on security**, not buzzwords.
-> Explore the labs.
-
-```
-```
+⚠️ "The quieter you become, the more you can hear."
+</div> ``
